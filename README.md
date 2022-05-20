@@ -7,3 +7,5 @@ Rest API for Note App
 - add note 
 - update note 
 - pload images 
+- delete note 
+- get notes
