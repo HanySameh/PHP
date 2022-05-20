@@ -4,6 +4,6 @@ Rest API for Note App
 - Sign In 
 - Sign Up
 # Note App Request
--add note 
--update note 
--pload images 
+- add note 
+- update note 
+- pload images 
